@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/krivahtoo/htmpd/pull/17) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🎉 Merged PR [#214](https://github.com/krivahtoo/telechat/pull/214) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🎉 Merged PR [#19](https://github.com/Kriv-Art/BibleBot/pull/19) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-4. 🎉 Merged PR [#16](https://github.com/Kriv-Art/BibleBot/pull/16) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-5. 🎉 Merged PR [#212](https://github.com/krivahtoo/telechat/pull/212) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#13](https://github.com/krivahtoo/htmpd/pull/13) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+2. 🎉 Merged PR [#14](https://github.com/krivahtoo/htmpd/pull/14) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+3. 🎉 Merged PR [#12](https://github.com/krivahtoo/htmpd/pull/12) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+4. 🎉 Merged PR [#17](https://github.com/krivahtoo/htmpd/pull/17) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+5. 🎉 Merged PR [#214](https://github.com/krivahtoo/telechat/pull/214) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 <!--END_SECTION:activity-->
 
 </details>
