@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/krivahtoo/htmpd/pull/13) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🎉 Merged PR [#14](https://github.com/krivahtoo/htmpd/pull/14) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-3. 🎉 Merged PR [#12](https://github.com/krivahtoo/htmpd/pull/12) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-4. 🎉 Merged PR [#17](https://github.com/krivahtoo/htmpd/pull/17) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-5. 🎉 Merged PR [#214](https://github.com/krivahtoo/telechat/pull/214) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#99](https://github.com/krivahtoo/group-manager/pull/99) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+2. 🎉 Merged PR [#106](https://github.com/krivahtoo/group-manager/pull/106) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. 🎉 Merged PR [#121](https://github.com/krivahtoo/group-manager/pull/121) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🎉 Merged PR [#113](https://github.com/krivahtoo/group-manager/pull/113) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. 🎉 Merged PR [#119](https://github.com/krivahtoo/group-manager/pull/119) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
