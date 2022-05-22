@@ -2,7 +2,7 @@
 
 ## I'm a self taught passionate Developer
 
-- 🌱 I’m currently working on a Svelte project
+- 🌱 I’m currently learning go
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
