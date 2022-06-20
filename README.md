@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/kamiyaa/joshuto/issues/178) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 💪 Opened PR [#177](https://github.com/kamiyaa/joshuto/pull/177) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-3. 🎉 Merged PR [#227](https://github.com/krivahtoo/telechat/pull/227) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. 🎉 Merged PR [#16](https://github.com/krivahtoo/htmpd/pull/16) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-5. 🎉 Merged PR [#19](https://github.com/krivahtoo/htmpd/pull/19) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+1. ❌ Closed PR [#1](https://github.com/krivahtoo/fzf-tmux.nvim/pull/1) in [krivahtoo/fzf-tmux.nvim](https://github.com/krivahtoo/fzf-tmux.nvim)
+2. 🗣 Commented on [#178](https://github.com/kamiyaa/joshuto/issues/178) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+3. 💪 Opened PR [#177](https://github.com/kamiyaa/joshuto/pull/177) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+4. 🎉 Merged PR [#227](https://github.com/krivahtoo/telechat/pull/227) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 🎉 Merged PR [#16](https://github.com/krivahtoo/htmpd/pull/16) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
 <!--END_SECTION:activity-->
 
 </details>
