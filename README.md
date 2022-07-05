@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/krivahtoo/htmpd/pull/28) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🎉 Merged PR [#27](https://github.com/krivahtoo/htmpd/pull/27) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-3. 💪 Opened PR [#27](https://github.com/krivahtoo/htmpd/pull/27) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-4. 💪 Opened PR [#179](https://github.com/kamiyaa/joshuto/pull/179) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-5. 🎉 Merged PR [#26](https://github.com/krivahtoo/htmpd/pull/26) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+1. 💪 Opened PR [#1648](https://github.com/telegraf/telegraf/pull/1648) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
+2. 🎉 Merged PR [#28](https://github.com/krivahtoo/htmpd/pull/28) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+3. 🎉 Merged PR [#27](https://github.com/krivahtoo/htmpd/pull/27) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+4. 💪 Opened PR [#27](https://github.com/krivahtoo/htmpd/pull/27) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+5. 💪 Opened PR [#179](https://github.com/kamiyaa/joshuto/pull/179) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--END_SECTION:activity-->
 
 </details>
