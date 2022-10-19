@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/kamiyaa/joshuto/issues/205) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 🎉 Merged PR [#167](https://github.com/krivahtoo/group-manager/pull/167) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-3. 🎉 Merged PR [#169](https://github.com/krivahtoo/group-manager/pull/169) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. ❗️ Closed issue [#5](https://github.com/krivahtoo/silicon.nvim/issues/5) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 🎉 Merged PR [#6](https://github.com/krivahtoo/silicon.nvim/pull/6) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 🗣 Commented on [#7](https://github.com/krivahtoo/silicon.nvim/issues/7) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#205](https://github.com/kamiyaa/joshuto/issues/205) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+3. 🎉 Merged PR [#167](https://github.com/krivahtoo/group-manager/pull/167) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🎉 Merged PR [#169](https://github.com/krivahtoo/group-manager/pull/169) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. ❗️ Closed issue [#5](https://github.com/krivahtoo/silicon.nvim/issues/5) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
 
 </details>
