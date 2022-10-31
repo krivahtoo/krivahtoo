@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/krivahtoo/silicon.nvim/pull/11) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. 💪 Opened PR [#11](https://github.com/krivahtoo/silicon.nvim/pull/11) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🗣 Commented on [#10](https://github.com/krivahtoo/silicon.nvim/issues/10) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-4. 🗣 Commented on [#9](https://github.com/krivahtoo/silicon.nvim/issues/9) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 💪 Opened PR [#220](https://github.com/kamiyaa/joshuto/pull/220) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+1. ❗️ Closed issue [#9](https://github.com/krivahtoo/silicon.nvim/issues/9) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🎉 Merged PR [#11](https://github.com/krivahtoo/silicon.nvim/pull/11) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. 💪 Opened PR [#11](https://github.com/krivahtoo/silicon.nvim/pull/11) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 🗣 Commented on [#10](https://github.com/krivahtoo/silicon.nvim/issues/10) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. 🗣 Commented on [#9](https://github.com/krivahtoo/silicon.nvim/issues/9) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
 
 </details>
