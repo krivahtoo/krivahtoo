@@ -53,10 +53,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/krivahtoo/silicon.nvim/issues/10) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. ❗️ Opened issue [#228](https://github.com/Aloxaf/silicon/issues/228) in [Aloxaf/silicon](https://github.com/Aloxaf/silicon)
-3. ❗️ Opened issue [#92](https://github.com/noib3/nvim-oxi/issues/92) in [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi)
-4. 🎉 Merged PR [#15](https://github.com/krivahtoo/silicon.nvim/pull/15) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 🗣 Commented on [#15](https://github.com/krivahtoo/silicon.nvim/issues/15) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#10](https://github.com/krivahtoo/silicon.nvim/issues/10) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. ❗️ Opened issue [#228](https://github.com/Aloxaf/silicon/issues/228) in [Aloxaf/silicon](https://github.com/Aloxaf/silicon)
+4. ❗️ Opened issue [#92](https://github.com/noib3/nvim-oxi/issues/92) in [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi)
+5. 🎉 Merged PR [#15](https://github.com/krivahtoo/silicon.nvim/pull/15) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
 
 </details>
