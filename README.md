@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/stevearc/oil.nvim/issues/74) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
-2. ❗️ Opened issue [#74](https://github.com/stevearc/oil.nvim/issues/74) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
-3. ❗️ Opened issue [#72](https://github.com/stevearc/oil.nvim/issues/72) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
-4. 🗣 Commented on [#33](https://github.com/krivahtoo/silicon.nvim/issues/33) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#74](https://github.com/stevearc/oil.nvim/issues/74) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
+3. ❗️ Opened issue [#74](https://github.com/stevearc/oil.nvim/issues/74) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
+4. ❗️ Opened issue [#72](https://github.com/stevearc/oil.nvim/issues/72) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
 5. 🗣 Commented on [#33](https://github.com/krivahtoo/silicon.nvim/issues/33) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
 
