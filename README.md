@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. 💪 Opened PR [#15](https://github.com/commune-os/weird/pull/15) in [commune-os/weird](https://github.com/commune-os/weird)
-3. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-4. ❗️ Closed issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. ❗️ Reopened issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 💪 Opened PR [#15](https://github.com/commune-os/weird/pull/15) in [commune-os/weird](https://github.com/commune-os/weird)
 5. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
 
