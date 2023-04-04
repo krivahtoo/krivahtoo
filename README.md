@@ -2,17 +2,18 @@
 
 ## I'm a self taught passionate Developer
 
-- 🌱 I’m currently learning go
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working on rust projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
 ### Technologies:
 
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
+![Tauri](https://img.shields.io/badge/-Tauri-000?&logo=tauri)
+![Express.js](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
-![Express.js](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
@@ -31,9 +32,7 @@
 ### IDEs and Text editors:
 
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=47A248)
-![Atom](https://img.shields.io/badge/-Atom-000?&logo=atom)
 
 ### Databases:
 
@@ -45,6 +44,7 @@
 ### Stay in touch:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/krivahtoo)
+[![LinkedIn](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://home.social/@krivah)
 
 ---
 
@@ -58,12 +58,12 @@
 4. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 5. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
+  
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
 
-
   [![Krivah's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=krivahtoo&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
