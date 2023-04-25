@@ -52,9 +52,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/krivahtoo/printf/pull/2) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
-2. 💪 Opened PR [#2](https://github.com/krivahtoo/printf/pull/2) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
-3. ❗️ Reopened issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 💪 Opened PR [#3](https://github.com/krivahtoo/printf/pull/3) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
+2. 🎉 Merged PR [#2](https://github.com/krivahtoo/printf/pull/2) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
+3. 💪 Opened PR [#2](https://github.com/krivahtoo/printf/pull/2) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
 4. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 5. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
