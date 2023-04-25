@@ -52,7 +52,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/commune-os/weird/pull/16) in [commune-os/weird](https://github.com/commune-os/weird)
+1. 💪 Opened PR [#2](https://github.com/krivahtoo/printf/pull/2) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
 2. 💪 Opened PR [#16](https://github.com/commune-os/weird/pull/16) in [commune-os/weird](https://github.com/commune-os/weird)
 3. ❗️ Reopened issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 4. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
