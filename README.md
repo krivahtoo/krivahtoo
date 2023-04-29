@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. ❗️ Reopened issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🎉 Merged PR [#4](https://github.com/krivahtoo/printf/pull/4) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
-4. 💪 Opened PR [#4](https://github.com/krivahtoo/printf/pull/4) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
-5. 💪 Opened PR [#3](https://github.com/krivahtoo/printf/pull/3) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
+1. 💪 Opened PR [#18](https://github.com/commune-os/weird/pull/18) in [commune-os/weird](https://github.com/commune-os/weird)
+2. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. ❗️ Reopened issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 🎉 Merged PR [#4](https://github.com/krivahtoo/printf/pull/4) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
+5. 💪 Opened PR [#4](https://github.com/krivahtoo/printf/pull/4) in [krivahtoo/printf](https://github.com/krivahtoo/printf)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
