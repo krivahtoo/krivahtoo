@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/commune-os/weird/issues/24) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🗣 Commented on [#21](https://github.com/commune-os/weird/issues/21) in [commune-os/weird](https://github.com/commune-os/weird)
-4. 🎉 Merged PR [#20](https://github.com/commune-os/weird/pull/20) in [commune-os/weird](https://github.com/commune-os/weird)
-5. 🗣 Commented on [#229](https://github.com/kamiyaa/joshuto/issues/229) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+1. ❗️ Closed issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#38](https://github.com/krivahtoo/silicon.nvim/issues/38) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. ❗️ Opened issue [#24](https://github.com/commune-os/weird/issues/24) in [commune-os/weird](https://github.com/commune-os/weird)
+4. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. 🗣 Commented on [#21](https://github.com/commune-os/weird/issues/21) in [commune-os/weird](https://github.com/commune-os/weird)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
