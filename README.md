@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. 🗣 Commented on [#38](https://github.com/krivahtoo/silicon.nvim/issues/38) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. ❗️ Opened issue [#24](https://github.com/commune-os/weird/issues/24) in [commune-os/weird](https://github.com/commune-os/weird)
-4. 🗣 Commented on [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 🗣 Commented on [#21](https://github.com/commune-os/weird/issues/21) in [commune-os/weird](https://github.com/commune-os/weird)
+1. ❗️ Opened issue [#4](https://github.com/krivahtoo/simple_shell/issues/4) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+2. ❗️ Opened issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+3. ❗️ Opened issue [#2](https://github.com/krivahtoo/simple_shell/issues/2) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+4. ❗️ Opened issue [#1](https://github.com/krivahtoo/simple_shell/issues/1) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+5. ❗️ Closed issue [#35](https://github.com/krivahtoo/silicon.nvim/issues/35) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
