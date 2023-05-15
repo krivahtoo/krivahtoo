@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/jstkdng/ueberzugpp/issues/40) in [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)
-2. ❗️ Opened issue [#4](https://github.com/krivahtoo/simple_shell/issues/4) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-3. ❗️ Opened issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-4. ❗️ Opened issue [#2](https://github.com/krivahtoo/simple_shell/issues/2) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-5. ❗️ Opened issue [#1](https://github.com/krivahtoo/simple_shell/issues/1) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+1. 💪 Opened PR [#6](https://github.com/krivahtoo/simple_shell/pull/6) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+2. ❗️ Opened issue [#5](https://github.com/krivahtoo/simple_shell/issues/5) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+3. ❗️ Opened issue [#40](https://github.com/jstkdng/ueberzugpp/issues/40) in [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)
+4. ❗️ Opened issue [#4](https://github.com/krivahtoo/simple_shell/issues/4) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+5. ❗️ Opened issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
