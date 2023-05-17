@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/krivahtoo/simple_shell/pull/8) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-2. 🎉 Merged PR [#7](https://github.com/krivahtoo/simple_shell/pull/7) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-3. 🗣 Commented on [#40](https://github.com/jstkdng/ueberzugpp/issues/40) in [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)
-4. 💪 Opened PR [#7](https://github.com/krivahtoo/simple_shell/pull/7) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-5. ❗️ Closed issue [#5](https://github.com/krivahtoo/simple_shell/issues/5) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+1. ❗️ Closed issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+2. ❗️ Closed issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+3. 🎉 Merged PR [#8](https://github.com/krivahtoo/simple_shell/pull/8) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+4. 💪 Opened PR [#8](https://github.com/krivahtoo/simple_shell/pull/8) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+5. 🎉 Merged PR [#7](https://github.com/krivahtoo/simple_shell/pull/7) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
