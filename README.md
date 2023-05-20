@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/commune-os/weird/pull/25) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 🗣 Commented on [#25](https://github.com/commune-os/weird/issues/25) in [commune-os/weird](https://github.com/commune-os/weird)
-3. 💪 Opened PR [#10](https://github.com/krivahtoo/simple_shell/pull/10) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-4. ❗️ Closed issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+1. 💪 Opened PR [#26](https://github.com/commune-os/weird/pull/26) in [commune-os/weird](https://github.com/commune-os/weird)
+2. 🎉 Merged PR [#25](https://github.com/commune-os/weird/pull/25) in [commune-os/weird](https://github.com/commune-os/weird)
+3. 🗣 Commented on [#25](https://github.com/commune-os/weird/issues/25) in [commune-os/weird](https://github.com/commune-os/weird)
+4. 💪 Opened PR [#10](https://github.com/krivahtoo/simple_shell/pull/10) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
 5. ❗️ Closed issue [#3](https://github.com/krivahtoo/simple_shell/issues/3) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
 <!--END_SECTION:activity-->
   
