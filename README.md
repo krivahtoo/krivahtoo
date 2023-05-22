@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/commune-os/weird/pull/27) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 🎉 Merged PR [#26](https://github.com/commune-os/weird/pull/26) in [commune-os/weird](https://github.com/commune-os/weird)
-3. 💪 Opened PR [#26](https://github.com/commune-os/weird/pull/26) in [commune-os/weird](https://github.com/commune-os/weird)
-4. 🎉 Merged PR [#25](https://github.com/commune-os/weird/pull/25) in [commune-os/weird](https://github.com/commune-os/weird)
-5. 🗣 Commented on [#25](https://github.com/commune-os/weird/issues/25) in [commune-os/weird](https://github.com/commune-os/weird)
+1. 💪 Opened PR [#12](https://github.com/krivahtoo/simple_shell/pull/12) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+2. 🎉 Merged PR [#11](https://github.com/krivahtoo/simple_shell/pull/11) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+3. 💪 Opened PR [#27](https://github.com/commune-os/weird/pull/27) in [commune-os/weird](https://github.com/commune-os/weird)
+4. 🎉 Merged PR [#26](https://github.com/commune-os/weird/pull/26) in [commune-os/weird](https://github.com/commune-os/weird)
+5. 💪 Opened PR [#26](https://github.com/commune-os/weird/pull/26) in [commune-os/weird](https://github.com/commune-os/weird)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
