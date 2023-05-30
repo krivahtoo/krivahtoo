@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/krivahtoo/simple_shell/pull/15) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-2. 🎉 Merged PR [#14](https://github.com/krivahtoo/simple_shell/pull/14) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-3. 💪 Opened PR [#14](https://github.com/krivahtoo/simple_shell/pull/14) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-4. ❗️ Closed issue [#4](https://github.com/krivahtoo/simple_shell/issues/4) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
-5. 🎉 Merged PR [#9](https://github.com/krivahtoo/simple_shell/pull/9) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+1. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
+2. 🎉 Merged PR [#15](https://github.com/krivahtoo/simple_shell/pull/15) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+3. 🎉 Merged PR [#14](https://github.com/krivahtoo/simple_shell/pull/14) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+4. 💪 Opened PR [#14](https://github.com/krivahtoo/simple_shell/pull/14) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+5. ❗️ Closed issue [#4](https://github.com/krivahtoo/simple_shell/issues/4) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
