@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 💪 Opened PR [#324](https://github.com/kamiyaa/joshuto/pull/324) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-3. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
+1. 🗣 Commented on [#323](https://github.com/kamiyaa/joshuto/issues/323) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
+3. 💪 Opened PR [#324](https://github.com/kamiyaa/joshuto/pull/324) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 4. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
-5. 🎉 Merged PR [#15](https://github.com/krivahtoo/simple_shell/pull/15) in [krivahtoo/simple_shell](https://github.com/krivahtoo/simple_shell)
+5. 🗣 Commented on [#28](https://github.com/commune-os/weird/issues/28) in [commune-os/weird](https://github.com/commune-os/weird)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
