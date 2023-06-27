@@ -44,7 +44,7 @@
 ### Stay in touch:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/krivahtoo)
-[![LinkedIn](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://home.social/@krivah)
+[![LinkedIn](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://mas.to/@krivah)
 
 ---
 
