@@ -52,8 +52,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 🗣 Commented on [#334](https://github.com/kamiyaa/joshuto/issues/334) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+1. 💪 Opened PR [#1](https://github.com/PeterEkwere/AirBnB_clone/pull/1) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
+2. 💪 Opened PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
 3. 🗣 Commented on [#334](https://github.com/kamiyaa/joshuto/issues/334) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 4. 💪 Opened PR [#334](https://github.com/kamiyaa/joshuto/pull/334) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 5. 🎉 Merged PR [#29](https://github.com/commune-os/weird/pull/29) in [commune-os/weird](https://github.com/commune-os/weird)
