@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/PeterEkwere/AirBnB_clone/pull/3) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
-2. 🔒 Closed issue [#38](https://github.com/krivahtoo/silicon.nvim/issues/38) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🗣 Commented on [#39](https://github.com/krivahtoo/silicon.nvim/issues/39#issuecomment-1668058646) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-4. 💪 Opened PR [#1](https://github.com/PeterEkwere/AirBnB_clone/pull/1) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
-5. 💪 Opened PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
+1. 💪 Opened PR [#5](https://github.com/PeterEkwere/AirBnB_clone/pull/5) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
+2. 💪 Opened PR [#4](https://github.com/PeterEkwere/AirBnB_clone/pull/4) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
+3. 💪 Opened PR [#3](https://github.com/PeterEkwere/AirBnB_clone/pull/3) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
+4. 🔒 Closed issue [#38](https://github.com/krivahtoo/silicon.nvim/issues/38) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. 🗣 Commented on [#39](https://github.com/krivahtoo/silicon.nvim/issues/39#issuecomment-1668058646) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
