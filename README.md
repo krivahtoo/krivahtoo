@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 🗣 Commented on [#42](https://github.com/krivahtoo/silicon.nvim/issues/42#issuecomment-1695275314) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. ❌ Closed PR [#1](https://github.com/krivahtoo/website/pull/1) in [krivahtoo/website](https://github.com/krivahtoo/website)
-4. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-1683797739) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 💪 Opened PR [#16](https://github.com/PeterEkwere/AirBnB_clone/pull/16) in [PeterEkwere/AirBnB_clone](https://github.com/PeterEkwere/AirBnB_clone)
+1. 💪 Opened PR [#4](https://github.com/PeterEkwere/AirBnB_clone_v2/pull/4) in [PeterEkwere/AirBnB_clone_v2](https://github.com/PeterEkwere/AirBnB_clone_v2)
+2. 💪 Opened PR [#3](https://github.com/PeterEkwere/AirBnB_clone_v2/pull/3) in [PeterEkwere/AirBnB_clone_v2](https://github.com/PeterEkwere/AirBnB_clone_v2)
+3. 🎉 Merged PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
+4. 🗣 Commented on [#42](https://github.com/krivahtoo/silicon.nvim/issues/42#issuecomment-1695275314) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. ❌ Closed PR [#1](https://github.com/krivahtoo/website/pull/1) in [krivahtoo/website](https://github.com/krivahtoo/website)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
