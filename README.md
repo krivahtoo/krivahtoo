@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/jeremychone/rust-sqlb/pull/12) in [jeremychone/rust-sqlb](https://github.com/jeremychone/rust-sqlb)
-2. 💪 Opened PR [#8](https://github.com/PeterEkwere/AirBnB_clone_v2/pull/8) in [PeterEkwere/AirBnB_clone_v2](https://github.com/PeterEkwere/AirBnB_clone_v2)
-3. 💪 Opened PR [#4](https://github.com/PeterEkwere/AirBnB_clone_v2/pull/4) in [PeterEkwere/AirBnB_clone_v2](https://github.com/PeterEkwere/AirBnB_clone_v2)
-4. 💪 Opened PR [#3](https://github.com/PeterEkwere/AirBnB_clone_v2/pull/3) in [PeterEkwere/AirBnB_clone_v2](https://github.com/PeterEkwere/AirBnB_clone_v2)
+1. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34#issuecomment-1986865546) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🔒 Closed issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. 🗣 Commented on [#44](https://github.com/krivahtoo/silicon.nvim/issues/44#issuecomment-1986858090) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 🗣 Commented on [#45](https://github.com/krivahtoo/silicon.nvim/issues/45#issuecomment-1986856600) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 5. 🎉 Merged PR [#30](https://github.com/commune-os/weird/pull/30) in [commune-os/weird](https://github.com/commune-os/weird)
 <!--END_SECTION:activity-->
   
