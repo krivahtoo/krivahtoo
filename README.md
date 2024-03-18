@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/krivahtoo/silicon.nvim/issues/45#issuecomment-1993826735) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34#issuecomment-1986865546) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🔒 Closed issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-4. 🗣 Commented on [#44](https://github.com/krivahtoo/silicon.nvim/issues/44#issuecomment-1986858090) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 🗣 Commented on [#45](https://github.com/krivahtoo/silicon.nvim/issues/45#issuecomment-1986856600) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 🗣 Commented on [#47](https://github.com/krivahtoo/silicon.nvim/issues/47#issuecomment-2003764280) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+2. 🗣 Commented on [#45](https://github.com/krivahtoo/silicon.nvim/issues/45#issuecomment-1993826735) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. 🗣 Commented on [#34](https://github.com/krivahtoo/silicon.nvim/issues/34#issuecomment-1986865546) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 🔒 Closed issue [#34](https://github.com/krivahtoo/silicon.nvim/issues/34) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. 🗣 Commented on [#44](https://github.com/krivahtoo/silicon.nvim/issues/44#issuecomment-1986858090) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
