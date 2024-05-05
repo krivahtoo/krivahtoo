@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#535](https://github.com/kamiyaa/joshuto/issues/535#issuecomment-2089867615) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 🗣 Commented on [#2](https://github.com/krivahtoo/dotfiles/issues/2#issuecomment-2056421757) in [krivahtoo/dotfiles](https://github.com/krivahtoo/dotfiles)
-3. 💪 Opened PR [#527](https://github.com/kamiyaa/joshuto/pull/527) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-4. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2050185508) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-5. 🔒 Closed issue [#47](https://github.com/krivahtoo/silicon.nvim/issues/47) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 🗣 Commented on [#527](https://github.com/kamiyaa/joshuto/pull/527#issuecomment-2094676266) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 🗣 Commented on [#535](https://github.com/kamiyaa/joshuto/issues/535#issuecomment-2089867615) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+3. 🗣 Commented on [#2](https://github.com/krivahtoo/dotfiles/issues/2#issuecomment-2056421757) in [krivahtoo/dotfiles](https://github.com/krivahtoo/dotfiles)
+4. 💪 Opened PR [#527](https://github.com/kamiyaa/joshuto/pull/527) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+5. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2050185508) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
