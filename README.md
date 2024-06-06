@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2132844498) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-2. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2131091916) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 🗣 Commented on [#527](https://github.com/kamiyaa/joshuto/pull/527#issuecomment-2094676266) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-4. 🗣 Commented on [#535](https://github.com/kamiyaa/joshuto/issues/535#issuecomment-2089867615) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-5. 🗣 Commented on [#2](https://github.com/krivahtoo/dotfiles/issues/2#issuecomment-2056421757) in [krivahtoo/dotfiles](https://github.com/krivahtoo/dotfiles)
+1. 🗣 Commented on [#4797](https://github.com/louislam/uptime-kuma/issues/4797#issuecomment-2152343583) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2132844498) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+3. 🗣 Commented on [#40](https://github.com/krivahtoo/silicon.nvim/issues/40#issuecomment-2131091916) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+4. 🗣 Commented on [#527](https://github.com/kamiyaa/joshuto/pull/527#issuecomment-2094676266) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+5. 🗣 Commented on [#535](https://github.com/kamiyaa/joshuto/issues/535#issuecomment-2089867615) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
