@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/commune-os/weird/pull/43#issuecomment-2157950068) in [commune-os/weird](https://github.com/commune-os/weird)
-2. 💪 Opened PR [#43](https://github.com/commune-os/weird/pull/43) in [commune-os/weird](https://github.com/commune-os/weird)
-3. ❗ Opened issue [#1461](https://github.com/nvimdev/lspsaga.nvim/issues/1461) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
-4. 🗣 Commented on [#4832](https://github.com/louislam/uptime-kuma/issues/4832#issuecomment-2155225004) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-5. 🗣 Commented on [#4832](https://github.com/louislam/uptime-kuma/issues/4832#issuecomment-2154734765) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 💪 Opened PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+2. ❌ Closed PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
+3. 💪 Opened PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
+4. 🗣 Commented on [#43](https://github.com/commune-os/weird/pull/43#issuecomment-2157950068) in [commune-os/weird](https://github.com/commune-os/weird)
+5. 💪 Opened PR [#43](https://github.com/commune-os/weird/pull/43) in [commune-os/weird](https://github.com/commune-os/weird)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
