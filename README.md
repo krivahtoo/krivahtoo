@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-2. 💪 Opened PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-3. ❌ Closed PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
-4. 💪 Opened PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
-5. 🗣 Commented on [#43](https://github.com/commune-os/weird/pull/43#issuecomment-2157950068) in [commune-os/weird](https://github.com/commune-os/weird)
+1. 🎉 Merged PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+2. 💪 Opened PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+3. 🎉 Merged PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+4. 💪 Opened PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+5. ❌ Closed PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
