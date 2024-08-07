@@ -3,7 +3,7 @@
 ## I'm a self taught passionate Developer
 
 - 🌱 I’m currently working on rust projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ---
 
