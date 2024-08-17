@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-2. 💪 Opened PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-3. 🎉 Merged PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-4. 💪 Opened PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
-5. ❌ Closed PR [#3525](https://github.com/alexaorrico/AirBnB_clone_v2/pull/3525) in [alexaorrico/AirBnB_clone_v2](https://github.com/alexaorrico/AirBnB_clone_v2)
+1. 🗣 Commented on [#559](https://github.com/kamiyaa/joshuto/issues/559#issuecomment-2294801416) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 🎉 Merged PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+3. 💪 Opened PR [#2](https://github.com/krivahtoo/AirBnB_clone_v3/pull/2) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+4. 🎉 Merged PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
+5. 💪 Opened PR [#1](https://github.com/krivahtoo/AirBnB_clone_v3/pull/1) in [krivahtoo/AirBnB_clone_v3](https://github.com/krivahtoo/AirBnB_clone_v3)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
