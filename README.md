@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/krivahtoo/stamon/pull/3) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-2. 🎉 Merged PR [#2](https://github.com/krivahtoo/stamon/pull/2) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-3. 🎉 Merged PR [#27](https://github.com/krivahtoo/stamon/pull/27) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-4. 🗣 Commented on [#25](https://github.com/krivahtoo/stamon/issues/25#issuecomment-2326968600) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-5. 🗣 Commented on [#52](https://github.com/krivahtoo/silicon.nvim/issues/52#issuecomment-2326953850) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+1. 💪 Opened PR [#30](https://github.com/krivahtoo/stamon/pull/30) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+2. 🎉 Merged PR [#3](https://github.com/krivahtoo/stamon/pull/3) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+3. 🎉 Merged PR [#2](https://github.com/krivahtoo/stamon/pull/2) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+4. 🎉 Merged PR [#27](https://github.com/krivahtoo/stamon/pull/27) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+5. 🗣 Commented on [#25](https://github.com/krivahtoo/stamon/issues/25#issuecomment-2326968600) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
