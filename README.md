@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/krivahtoo/alx-backend-javascript/pull/1) in [krivahtoo/alx-backend-javascript](https://github.com/krivahtoo/alx-backend-javascript)
-2. 🎉 Merged PR [#53](https://github.com/krivahtoo/silicon.nvim/pull/53) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-3. 💪 Opened PR [#53](https://github.com/krivahtoo/silicon.nvim/pull/53) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
-4. 🚀 Published release [Stamon v0.1.0](https://github.com/krivahtoo/stamon/releases/tag/v0.1.0) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-5. 🎉 Merged PR [#69](https://github.com/krivahtoo/stamon/pull/69) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+1. 🎉 Merged PR [#70](https://github.com/krivahtoo/stamon/pull/70) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+2. 💪 Opened PR [#70](https://github.com/krivahtoo/stamon/pull/70) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+3. ❌ Closed PR [#1](https://github.com/krivahtoo/alx-backend-javascript/pull/1) in [krivahtoo/alx-backend-javascript](https://github.com/krivahtoo/alx-backend-javascript)
+4. 🎉 Merged PR [#53](https://github.com/krivahtoo/silicon.nvim/pull/53) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+5. 💪 Opened PR [#53](https://github.com/krivahtoo/silicon.nvim/pull/53) in [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
