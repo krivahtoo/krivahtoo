@@ -1,6 +1,6 @@
 ### Hi there, I'm Noah - aka Krivah 👋
 
-## I'm a self taught passionate Developer
+## I'm a self taught passionate Software Developer
 
 - 🌱 I’m currently working on rust projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
@@ -22,12 +22,12 @@
 
 ### Languages:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/krivahtoo?tab=repositories&q=&type=&language=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&logoColor=a72145)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/krivahtoo?tab=repositories&q=&type=&language=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 
 ### IDEs and Text editors:
 
