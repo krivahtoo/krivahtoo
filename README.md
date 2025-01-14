@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/krivahtoo/stamon/pull/105) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-2. 🎉 Merged PR [#102](https://github.com/krivahtoo/stamon/pull/102) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-3. 🎉 Merged PR [#103](https://github.com/krivahtoo/stamon/pull/103) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-4. 🎉 Merged PR [#97](https://github.com/krivahtoo/stamon/pull/97) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-5. 🎉 Merged PR [#99](https://github.com/krivahtoo/stamon/pull/99) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+1. ❌ Closed PR [#1](https://github.com/krivahtoo/maktaba/pull/1) in [krivahtoo/maktaba](https://github.com/krivahtoo/maktaba)
+2. 🎉 Merged PR [#105](https://github.com/krivahtoo/stamon/pull/105) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+3. 🎉 Merged PR [#102](https://github.com/krivahtoo/stamon/pull/102) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+4. 🎉 Merged PR [#103](https://github.com/krivahtoo/stamon/pull/103) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+5. 🎉 Merged PR [#97](https://github.com/krivahtoo/stamon/pull/97) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
