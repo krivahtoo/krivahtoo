@@ -52,8 +52,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/krivahtoo/stamon/pull/143) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-2. 🎉 Merged PR [#45](https://github.com/krivahtoo/stamon/pull/45) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+1. 💪 Opened PR [#2](undefined) in [krivahtoo/kujali](https://github.com/krivahtoo/kujali)
+2. 💪 Opened PR [#1](undefined) in [krivahtoo/kujali](https://github.com/krivahtoo/kujali)
 3. 🎉 Merged PR [#111](https://github.com/krivahtoo/stamon/pull/111) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 4. 🎉 Merged PR [#138](https://github.com/krivahtoo/stamon/pull/138) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 5. 🎉 Merged PR [#134](https://github.com/krivahtoo/stamon/pull/134) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
