@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/krivahtoo/stamon/pull/146) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-2. 🎉 Merged PR [#145](https://github.com/krivahtoo/stamon/pull/145) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-3. 💪 Opened PR [#145](https://github.com/krivahtoo/stamon/pull/145) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-4. 🎉 Merged PR [#138](https://github.com/krivahtoo/stamon/pull/138) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+1. 🎉 Merged PR [#146](https://github.com/krivahtoo/stamon/pull/146) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+2. 💪 Opened PR [#146](https://github.com/krivahtoo/stamon/pull/146) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+3. 🎉 Merged PR [#145](https://github.com/krivahtoo/stamon/pull/145) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+4. 💪 Opened PR [#145](https://github.com/krivahtoo/stamon/pull/145) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 5. 🎉 Merged PR [#134](https://github.com/krivahtoo/stamon/pull/134) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 <!--END_SECTION:activity-->
   
