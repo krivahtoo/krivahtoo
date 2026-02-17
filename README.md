@@ -53,10 +53,10 @@
   
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-2. 💪 Opened PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-3. 🎉 Merged PR [#151](https://github.com/krivahtoo/stamon/pull/151) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-4. 💪 Opened PR [#151](https://github.com/krivahtoo/stamon/pull/151) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-5. 🎉 Merged PR [#149](https://github.com/krivahtoo/stamon/pull/149) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+2. 🗣 Commented on [#152](https://github.com/krivahtoo/stamon/pull/152#issuecomment-3912517825) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+3. ❌ Closed PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+4. ℹ️ Labeled PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+5. 💪 Opened PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
