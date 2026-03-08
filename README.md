@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#12](https://github.com/krivahtoo/devsmtp/pull/12) in [krivahtoo/devsmtp](https://github.com/krivahtoo/devsmtp)
-2. 💪 Opened PR [#12](https://github.com/krivahtoo/devsmtp/pull/12) in [krivahtoo/devsmtp](https://github.com/krivahtoo/devsmtp)
-3. ℹ️ Labeled PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-4. 🗣 Commented on [#152](https://github.com/krivahtoo/stamon/pull/152#issuecomment-3912517825) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
-5. ❌ Closed PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+1. 🎉 Merged PR [#12](https://github.com/krivahtoo/devsmtp/pull/12) in [krivahtoo/devsmtp](https://github.com/krivahtoo/devsmtp)
+2. ℹ️ Labeled PR [#12](https://github.com/krivahtoo/devsmtp/pull/12) in [krivahtoo/devsmtp](https://github.com/krivahtoo/devsmtp)
+3. 💪 Opened PR [#12](https://github.com/krivahtoo/devsmtp/pull/12) in [krivahtoo/devsmtp](https://github.com/krivahtoo/devsmtp)
+4. ℹ️ Labeled PR [#152](https://github.com/krivahtoo/stamon/pull/152) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
+5. 🗣 Commented on [#152](https://github.com/krivahtoo/stamon/pull/152#issuecomment-3912517825) in [krivahtoo/stamon](https://github.com/krivahtoo/stamon)
 <!--END_SECTION:activity-->
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
